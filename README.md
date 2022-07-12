@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hyejin%20Lee&fontSize=90&desc=Frontend%20Developer&descAlign=63&descAlignY=63)
 
 <div align="center">
