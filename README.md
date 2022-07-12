@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hyejin%20Lee&fontSize=90&desc=Frontend%20Developer&descAlign=63&descAlignY=63)
-
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hyejin%20Lee&fontSize=90&fontColor=37393d&desc=Frontend%20Developer&descAlign=64&descAlignY=63)
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/>
