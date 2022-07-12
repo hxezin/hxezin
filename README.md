@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hyejin%20Lee&fontSize=90&fontColor=37393d&desc=Frontend%20Developer&descAlign=64&descAlignY=63)
+
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/>
@@ -11,4 +12,9 @@
 <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=FFFFFF"/> 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/>
+</div>
+
+<br /><br />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hxezin&theme=react">
 </div>
