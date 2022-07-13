@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hyejin%20Lee&fontSize=90&fontColor=89929b&desc=Frontend%20Developer&descAlign=64&descAlignY=63)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Hyejin%20Lee&fontSize=90&fontColor=89929b&desc=Frontend%20Developer&descAlign=64&descAlignY=68)
 
 </div>
 
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=GitHub&logoColor=FFFFFF"/>
 </div>
 
-<br /><br />
+<br />
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 
 </div>
 
-<br /><br />
+<br />
 
 <div align="center">
 
